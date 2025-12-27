@@ -31,10 +31,9 @@ from discord import Interaction, app_commands
 import requests
 import string
 
-# TOKEN CSGZ: MTI2Njk4MTY4NjYzODQxNTkxMg.G_sPha.3N1PCxs0yBC6dVYUUpde-Q30Zf4SZ8t1NN0RQQ
-# TOKEN STORE: MTI1MTc2NzU3NTUyNDgwNjcwNg.Gnpq-U.tN32vR7gllONCL9UIv3bpwJls9f4XdSTWTnbfg
 
-TOKEN = 'MTI1MTc2NzU3NTUyNDgwNjcwNg.Gnpq-U.tN32vR7gllONCL9UIv3bpwJls9f4XdSTWTnbfg'
+
+TOKEN = ''
 BOT_MASTER = ['595870690498838558','485646161261101066','1048949206125125742']
 
 intents = discord.Intents.default()
