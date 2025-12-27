@@ -1,0 +1,93 @@
+{
+    "token": "",
+    "tokenstore": "",
+    "id_server": "1220320347316948992",
+    "id_role_cua_chu": "1221800767288250449",
+    "embedtitle": "Hazel store",
+    "prefixstore": "",
+    "ttchannel": 1311663512019537971,
+    "taoqr": {
+        "nganhang": "MBBank",
+        "chutaikhoan": "Thach Gia Bao",
+        "sotaikhoan": "200602007"
+    },
+    "mbapi": {
+        "accountNo": "200602007",
+        "sessionId": "",
+        "deviceIdCommon": ""
+    },
+    "ltc": "",
+    "rqtoken": "",
+    "transfermessage": "%random%",
+    "serverid": 1220320347316948992,
+    "logchannel": 1307708725502541905,
+    "role_id": 1221783087634055240,
+    "delivery": {
+        "category": 1311663006035349535,
+        "channelname": "%username%"
+    },
+    "closedticket": 1311663031347974164,
+    "stocks": {
+        "nitrologin1thang": {
+            "deliverytype": 2,
+            "name": "Nitro Boost 1 Tháng",
+            "limit": 1,
+            "price": "85000",
+            "usd": "",
+            "file": "./stocks/nitrologin1thang.txt",
+            "infomation": "1 Tháng",
+            "emoji": ""
+        },
+        "nitrologin1nam": {
+            "deliverytype": 2,
+            "name": "Nitro Boost 1 Năm",
+            "limit": 1,
+            "price": "800000",
+            "usd": "",
+            "file": "./stocks/nitrologin1nam.txt",
+            "infomation": "1 Năm",
+            "emoji": ""
+        },
+        "nitrobasic1thang": {
+            "deliverytype": 2,
+            "name": "Nitro Basic 1 Tháng",
+            "limit": 1,
+            "price": "35000",
+            "usd": "",
+            "file": "./stocks/nitrobasic1thang.txt",
+            "infomation": "1 Tháng",
+            "emoji": ""
+        },
+        "nitrobasic1nam": {
+            "deliverytype": 2,
+            "name": "Nitro Basic 1 Năm",
+            "limit": 1,
+            "price": "350000",
+            "usd": "",
+            "file": "./stocks/nitrobasic1nam.txt",
+            "infomation": "1 Năm",
+            "emoji": ""
+        },
+        "nitrotrial1m": {
+            "deliverytype": 2,
+            "name": "Nitro Trial 1 Tháng",
+            "limit": 5,
+            "price": "25000",
+            "usd": "",
+            "file": "./stocks/nitrotrial1m.txt",
+            "infomation": "1 Tháng",
+            "emoji": ""
+        },
+        "nitrotrial3m": {
+            "deliverytype": 2,
+            "name": "Nitro Trial 3 Tháng",
+            "limit": 5,
+            "price": "50000",
+            "usd": "",
+            "file": "./stocks/nitrotrial3m.txt",
+            "infomation": "3 Tháng",
+            "emoji": ""
+        }
+
+    }
+}

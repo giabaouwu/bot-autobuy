@@ -1,0 +1,6 @@
+discord.py
+requests
+asyncio
+flask
+flask_socketio
+tls_client
